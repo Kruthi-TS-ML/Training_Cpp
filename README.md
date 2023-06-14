@@ -22,5 +22,10 @@ Output is added below:
 Output is added below:
 
 ![setDate](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3af9e98d-f208-482e-a07f-1d675b34ad1c)
+4. Server - Client socket program to simulate a Chatting System.
+![server](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/1abd194d-2e9b-4153-b1a3-a80a06e04a14)
+
+![client](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3839b954-4dc7-478e-8e0c-99cf4290bd25)
+
 
 
