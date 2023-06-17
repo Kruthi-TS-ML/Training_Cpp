@@ -1,9 +1,10 @@
 # Training_Cpp
 Code Samples for training in C++
 1. Program to demonstrate smart pointers:
+   
 ![Smart Pointers](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/2cc5c13c-562a-4bd6-a07d-fc29754ba925)
 
-2. Program to demonstrate Bank Management System
+3. Program to demonstrate Bank Management System
 
 Menu Options displayed in the following image. 
 
