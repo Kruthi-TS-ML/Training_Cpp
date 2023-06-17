@@ -1,7 +1,9 @@
 # Training_Cpp
 Code Samples for training in C++
+1. Program to demonstrate smart pointers:
+![Smart Pointers](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/2cc5c13c-562a-4bd6-a07d-fc29754ba925)
 
-1. Program to demonstrate Bank Management System
+2. Program to demonstrate Bank Management System
 
 Menu Options displayed in the following image. 
 
@@ -13,21 +15,26 @@ Menu Options displayed in the following image.
 
 ![Bank_System_4](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/b073db90-c3b8-46de-904f-8745691a8d57)
 
-2. Program to convert seconds to HH:MM:SS format.
+3. Program to convert seconds to HH:MM:SS format.
 Output is added below:
 
 ![TimeConverter](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/6f9fbb1b-cd5c-4d09-a670-c376c84fb4f8)
 
-3. Program to set Date and time in linux.
+4. Program to set date and time in Linux Operating System using C++ program.
 Output is added below:
 
 ![setDate](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3af9e98d-f208-482e-a07f-1d675b34ad1c)
 
-4. Server - Client socket program to simulate a Chatting System.
+5. Program to read date and time from Linux operating system using C++ program.
+   
+   ![getDate](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/c46b56e2-7fcf-4f93-a1a6-407e8c51b906)
+
+6. Server - Client socket program to simulate a Chatting System.
 
 ![server](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/1abd194d-2e9b-4153-b1a3-a80a06e04a14)
 
 ![client](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3839b954-4dc7-478e-8e0c-99cf4290bd25)
 
-
-
+7. Multithreaded program example:
+   
+   ![Multithread](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/594d78d3-4b25-45d0-92ed-b087acf6cae8)
