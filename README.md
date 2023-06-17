@@ -4,7 +4,7 @@ Code Samples for training in C++
    
 ![Smart Pointers](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/2cc5c13c-562a-4bd6-a07d-fc29754ba925)
 
-3. Program to demonstrate Bank Management System
+2. Program to demonstrate Bank Management System
 
 Menu Options displayed in the following image. 
 
@@ -27,18 +27,23 @@ Output is added below:
 ![setDate](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3af9e98d-f208-482e-a07f-1d675b34ad1c)
 
 5. Program to read date and time from Linux operating system using C++ program.
+
 ![getDate](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/c46b56e2-7fcf-4f93-a1a6-407e8c51b906)
 
 6. Server - Client socket program to simulate a Chatting System.
+
 ![server](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/1abd194d-2e9b-4153-b1a3-a80a06e04a14)
 
 ![client](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/3839b954-4dc7-478e-8e0c-99cf4290bd25)
 
 7. Program to demonstrate Vector of Maps:
+
 ![image](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/907026bc-03ca-4868-8a5c-d8764c901b15)
 
 8. Multithreaded program example:
+
 ![Multithread](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/594d78d3-4b25-45d0-92ed-b087acf6cae8)
 
 9. Log Parser using Singleton Class:
+
 ![LogParser](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/f22cb0dd-764e-42c2-b3a0-50fc139d6672)
