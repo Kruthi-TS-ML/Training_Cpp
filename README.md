@@ -66,6 +66,10 @@ Output is added below:
 
 ![SIGTERM](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/18a10988-dc20-4d3b-b7dd-536f05743dff)
 
+13. Program to print odd and even numbers using two threads synchronously.
+
+![PrintOddEven2](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/01006093-d1ef-4104-bc23-8d94cac8ce66)
+
 
 
 
