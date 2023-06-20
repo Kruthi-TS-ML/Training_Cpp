@@ -2,6 +2,12 @@
 #include <thread>
 using namespace std;
 
+//Make this program to print the numbers in ascending order.
+//And the threads needs to sync and print their numbers accordingly.
+//Exampe:
+// 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+//Please check the thread synchronization and do it
+
 void PrintOdd()
 {
     int y = 1;
