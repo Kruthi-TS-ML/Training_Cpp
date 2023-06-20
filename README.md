@@ -49,5 +49,12 @@ Output is added below:
 ![LogParser](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/f22cb0dd-764e-42c2-b3a0-50fc139d6672)
 
 10. Program to demonstrate Inheritance - Company with HR, Support and Finance Departments.
+
 ![company](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/26fa41ea-51b3-4ea3-8081-edabd1d53a26)
+
+11. Print Odd and even numbers using 2 threads:
+
+![PrintOddEven1](https://github.com/Kruthi-TS-ML/Training_Cpp/assets/135805326/2f6de58d-de82-4e6a-b1ea-9fd1dd814c2e)
+
+
 
